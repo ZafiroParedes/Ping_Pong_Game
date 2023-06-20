@@ -23,7 +23,6 @@ end component;
 component clkdiv is
 	port(original_clk: in STD_LOGIC;
 	clr: in STD_LOGIC;
---	level: in integer;
 	after_division_clk: out STD_LOGIC);
 end component;
 
