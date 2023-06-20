@@ -12,7 +12,6 @@ architecture behavior of clkdiv is
 
 signal counter: STD_LOGIC_VECTOR(18 downto 0) := (others => '0'); 
 signal clockTemp: STD_LOGIC := '0';
---signal originalbits: integer := 25;
 
 begin
 	process(original_clk, clr)
@@ -32,7 +31,6 @@ begin
 		
 	end process;
 	
-	--after_division_clk <= counter(22);
 	after_division_clk <= clockTemp;
 	
 end behavior;
