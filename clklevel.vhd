@@ -13,7 +13,6 @@ architecture behavior of clklevel is
 
 signal counter: integer := 0; 
 signal clockTemp: STD_LOGIC := '0';
---signal originalbits: integer := 25;
 
 begin
 	process(adjustedclk, clr, level)
