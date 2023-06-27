@@ -34,13 +34,20 @@ Below are screenshots of the modelSim simulations that demonstrate the programs 
 
 This simulation is of the clock level properly reducing the frequency of the clock with the internal counter that waits until it reaches 30. 
 
-![modelSim clock level]()
+![modelSim clock level pt 1](https://github.com/ZafiroParedes/Ping_Pong_Game/assets/91034132/80f5b024-b982-4b76-bfca-b1faf0227027)
+
+![modelSim clock level pt 2](https://github.com/ZafiroParedes/Ping_Pong_Game/assets/91034132/15803794-f0fd-473b-8e22-cd97b8ee5128)
+
 
 This simulation is of the ping pong light movement that shows an active one in a series of bits that moves from one end to the other properly and properly increases the level after the ball completes two bounces. 
 
-![modelSim ping pong game]()
+![modelSim ping pong game pt 1](https://github.com/ZafiroParedes/Ping_Pong_Game/assets/91034132/1ddca86e-4b48-4ed4-b4e2-1cd0db0c99fb)
+![modelSim ping pong game pt 2](https://github.com/ZafiroParedes/Ping_Pong_Game/assets/91034132/fd506441-4caf-427b-b767-64850bae104f)
+![modelSim ping pong game pt 3](https://github.com/ZafiroParedes/Ping_Pong_Game/assets/91034132/8b6ae55b-a71f-455a-931c-cb6bea9f683b)
+
 
 ## Results and Analysis
 Below is a video of the game functioning completely. 
 
 ![video of game]()
+
