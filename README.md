@@ -1,4 +1,3 @@
-_In Progress..._
 # Ping Pong Game
 Spring 2022
 
@@ -46,7 +45,7 @@ This simulation is of the ping pong light movement that shows an active one in a
 ![modelSim ping pong game pt 3](https://github.com/ZafiroParedes/Ping_Pong_Game/assets/91034132/8b6ae55b-a71f-455a-931c-cb6bea9f683b)
 
 
-## Results and Analysis
+## Results
 Below is a video of the game functioning completely. 
 
 ![video of game]()
