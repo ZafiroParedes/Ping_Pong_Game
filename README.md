@@ -1,5 +1,5 @@
 # Ping Pong Game
-Spring 2022
+_Spring 2022_
 
 This is a personal interpretation of an one-player ping pong game using the peripherals of the DE1-SoC board. The aim of the game is for the player to reach the maximum number of levels, or bounce the "ball" from one end to another, while the speed of the "ball" is increasing. A ball is represented by an active LED between the 10 possible LEDs and the levels are displayed as a counter with the seven-segment LEDs.
 
